@@ -30,6 +30,7 @@ Explore a rich dataset like the Stanford Policing Dataset or just marvel at the 
 - **Voting System**: Make democracy fun again with real-time voting and live results.
 - **Weather Visualization**: Want to compare the weather in two totally made-up cities? Now you can!
 - **Stanford Policing Dashboard**: Dive deep into data analysis with interactive charts and filters. Warning: serious data ahead!
+- **Random Coding Project Generator**: Feeling uninspired? Let the app throw a project at you—ranging from "easy as pie" to "prepare for all-nighters!"
 
 ---
 
