@@ -40,24 +40,24 @@ Want to run this bad boy on your own machine? Follow these steps:
 1. **Clone the repository**:
     ```bash
    git clone https://github.com/CNielsen94/my_streamlit_app.git
-```
+    ```
 2. Navigate to the project directory:
     ```bash
     cd my_streamlit_app
-```
+    ```
 3. Set up a virtual environment (optional but highly recommended):
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use: venv\Scripts\activate
-```
+    ```
 4. Install the dependencies:
     ```bash
     pip install -r requirements.txt
-```
+    ```
 5. Run the app:
     ```bash
     streamlit run app.py
-```
+    ```
 6. Open your browser: Visit http://localhost:8501 and enjoy!
 
 ## 🕹 **Usage**
@@ -119,17 +119,17 @@ Feel like adding more awesomeness to this app? You're in luck! To contribute:
 2. **Create a new branch**:
    ```bash
    git checkout -b feature-new-feature
-```
+    ```
 
 3. Make your changes and commit them like a coding rockstar:
     ```bash
     git commit -m "Added the coolest feature ever!"
-```
+    ```
 
 4. Push to your branch (because the main branch isn't ready for this level of greatness):
     ```bash
     git push origin feature-new-feature
-```
+    ```
 
 5. Open a Pull Request and watch the magic unfold!
 
