@@ -92,6 +92,10 @@ Visualize temperature and humidity data for two fictional cities (because why no
 7️⃣ **Stanford Policing Dataset Dashboard**  
 For the serious data heads. Explore the Stanford Policing Dataset with interactive visualizations and filters, diving into demographics, stop outcomes, and more.
 
+8️⃣ **Random Coding Project Generator**  
+Stuck in a coding rut? This page will throw random project ideas at you—whether you're just waking up or in full "I’m gonna conquer the world" mode. From baby steps to hardcore challenges, there's something for everyone!
+
+
 ## 📁 **Folder Structure**
 
 ```bash
