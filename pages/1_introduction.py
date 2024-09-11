@@ -9,6 +9,7 @@ This app showcases various features of Streamlit, including:
 4. Real-Time Voting System
 5. Weather Data Visualization
 6. Stanford Policing Dataset Dashboard
+7. Random Project Generator
 
 Use the sidebar to explore each feature!
 """)
