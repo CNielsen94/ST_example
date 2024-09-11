@@ -1,10 +1,12 @@
 import streamlit as st
 import json
 import os
+import random
 
 # Function to load the project ideas from a JSON file
 def load_project_ideas():
-    file_path = os.path.join(os.path.dirname(__file__), 'project_ideas.json')
+    file_path = 'project_ideas.json'
+    #file_path = os.path.join(os.path.dirname(__file__), 'project_ideas.json')
     with open(file_path, 'r') as file:
         return json.load(file)
 
